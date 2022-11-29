@@ -1,5 +1,5 @@
-# frontend-sample-app
-Basic Frontend Development Environment to start an app with Webpack
+# estacionapp-mvp
+MVP for estacionapp, an app for vehicle parking payment. Based entirely on [this](https://github.com/alexarenasf/frontend-sample-app) repository.
 
 This repo includes `Webpack` to start an environment to build frontend views using `React`.
 
